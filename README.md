@@ -15,9 +15,10 @@ He/Him
 
 ### 🌱 What do I do and What have I done?
 - Technical leader and developer of [**PlatIAgro**](https://github.com/platiagro), open-source AI platform built on top of [**Kubeflow**](https://github.com/kubeflow) `Aug.2018-Present`
-- ML Engineer in projects that use conversational AI in Healthcare `Jan.2017-Jun.2021`
+- ML Engineer in projects that use conversational AI in Customer Service and Healthcare. `Jan.2017-Jun.2021`
 - Software Engineer and MLOps in a R&D project that built recommendation systems for TV shows. `Dec.2019-Dec.2020`
 - Java and C++ developer in a speech biometrics solution. `Aug.2014-Dec.2016`
+- MSc Candidate in Information Systems at [**USP**](http://ppgsi.each.usp.br/). Worked on [Author Profiling](https://en.wikipedia.org/wiki/Author_profiling) using NLP, but I did not complete the degree. `Jan 2016-Feb 2017`.
 - Graduated from [**Unicamp**](https://www.unicamp.br/) with a [**BSc in Computer Science**](http://www.ic.unicamp.br/) `Dec.2014`
 - Research Intern on the [**Brazilian Center for Research in Energy and Materials**](https://cnpem.br/). `Jan.2014-Jul.2014`
 - Software Development Intern at [**Inova Unicamp**](https://www.inova.unicamp.br/) `Feb.2011-Oct.2013`
