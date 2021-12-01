@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-fabio.beranizo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.beranizo@gmail.com)](mailto:fabio.beranizo@gmail.com)
 [![Lattes Badge](https://img.shields.io/badge/%20-Lattes-yellow?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/9924584940133348)](http://lattes.cnpq.br/9924584940133348)
 
-Hi guys, I am a Machine Learning Engineer / Software Engineer from Mogi Guaçu, Brazil. I'm currently working in [CPQD](https://www.cpqd.com.br/).
+Hi guys, I am a Machine Learning Engineer / Software Engineer from Mogi Guaçu, Brazil. I'm currently working in [Nubank](https://www.nubank.com.br/).
 
 I mainly code in Python, but I love having the chance to get my hands dirty in any language: Javascript, Golang, Java, C++, Shell Script... <br>
 I am currently working on two open-source projects: [PlatIAgro](https://github.com/platiagro) and [dojot](https://github.com/dojot), which intend to foment AI and IoT in Brazil, through applications in Industry, Agribusiness, Healthcare, and other areas.<br>
@@ -14,7 +14,8 @@ Also, I'm working hard to become an MLOps engineer. Kubernetes, Kubeflow, TFX, A
 He/Him
 
 ### 🌱 What do I do and What have I done?
-- Technical leader and developer of [**PlatIAgro**](https://github.com/platiagro), open-source AI platform built on top of [**Kubeflow**](https://github.com/kubeflow) `Aug.2018-Present`
+- Machine Learning Engineer at Nubank. `Dec.2021-Present`
+- Technical leader and developer of [**PlatIAgro**](https://github.com/platiagro), open-source AI platform built on top of [**Kubeflow**](https://github.com/kubeflow) `Aug.2018-Nov.2021`
 - ML Engineer in projects that use conversational AI in Customer Service and Healthcare. `Jan.2017-Jun.2021`
 - Software Engineer and MLOps in a R&D project that built recommendation systems for TV shows. `Dec.2019-Dec.2020`
 - Java and C++ developer in a speech biometrics solution. `Aug.2014-Dec.2016`
