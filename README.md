@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-fabio.beranizo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.beranizo@gmail.com)](mailto:fabio.beranizo@gmail.com)
 [![Lattes Badge](https://img.shields.io/badge/%20-Lattes-yellow?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/9924584940133348)](http://lattes.cnpq.br/9924584940133348)
 
-Hi guys, I am a Machine Learning Engineer / Software Engineer from Mogi Guaçu, Brazil. I'm currently working on [CPQD](https://www.cpqd.com.br/).
+Hi guys, I am a Machine Learning Engineer / Software Engineer from Mogi Guaçu, Brazil. I'm currently working in [CPQD](https://www.cpqd.com.br/).
 
 I mainly code in Python, but I love having the chance to get my hands dirty in any language: Javascript, Golang, Java, C++, Shell Script... <br>
 I am currently working on two open-source projects: [PlatIAgro](https://github.com/platiagro) and [dojot](https://github.com/dojot), which intend to foment AI and IoT in Brazil, through applications in Industry, Agribusiness, Healthcare, and other areas.<br>
