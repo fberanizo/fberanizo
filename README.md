@@ -26,9 +26,11 @@ He/Him
 - Software Development Intern at [**CI&T**](https://www.ciandt.com/) `Jan.2010-Dec.2010`
 - Technician Degree from [**Cotuca - Unicamp**](https://www.cotuca.unicamp.br/) `Dec.2009`
 
+<!--
 ## 💻 Open Source Work Stats
 
 ![fberanizo's Github stats](https://github-readme-stats.vercel.app/api?username=fberanizo&show_icons=true)
+-->
 
 <!--
 **fberanizo/fberanizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
