@@ -7,10 +7,7 @@
 Hi guys, I am a Machine Learning Engineer / Software Engineer from Mogi Guaçu, Brazil. I'm currently working for [Nubank](https://www.nubank.com.br/).
 
 I mainly code in Python and Scala, but I love having the chance to get my hands dirty in any language: Javascript, Golang, Java, Shell Script, R, etc.<br>
-Also, I'm working hard to be a better MLOps engineer. Python, Kubernetes, Kubeflow, Spark, and Databricks are tools that I make use of regularly.
-
-### 😄 Pronouns
-He/Him
+At Nubank, I develop and operate Financial Risk Models using technologies such as Python, Apache Spark, Scala, AWS Cloud, and Kubernetes. I also offer technical guidance for complex projects and collaborate with other teams to create platform solutions that affect the whole company. 
 
 ### 🌱 What do I do, and What have I done?
 - Lead Machine Learning Engineer at Nubank. `Dec.2021-Present`
