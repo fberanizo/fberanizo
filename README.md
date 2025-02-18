@@ -2,15 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-beranizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beranizo/)](https://www.linkedin.com/in/beranizo/)
 [![Gmail Badge](https://img.shields.io/badge/-fabio.beranizo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.beranizo@gmail.com)](mailto:fabio.beranizo@gmail.com)
-[![Lattes Badge](https://img.shields.io/badge/%20-Lattes-yellow?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/9924584940133348)](http://lattes.cnpq.br/9924584940133348)
 
-Hi guys, I am a Machine Learning Engineer / Software Engineer from Mogi Guaçu, Brazil. I'm currently working for [Nubank](https://www.nubank.com.br/).
+Hello! I'm a Machine Learning Engineer / Software Engineer from Indaiatuba, Brazil. Currently, I am working for [Nubank](https://www.nubank.com.br/), the largest fintech in LATAM.
 
-I mainly code in Python and Scala, but I love having the chance to get my hands dirty in any language: Javascript, Golang, Java, Shell Script, R, etc.<br>
-At Nubank, I develop and operate Financial Risk Models using technologies such as Python, Apache Spark, Scala, AWS Cloud, and Kubernetes. I also offer technical guidance for complex projects and collaborate with other teams to create platform solutions that affect the whole company. 
+At Nubank, I develop and operate Financial Risk Models using technologies such as Python, Apache Spark, Scala, Databricks, AWS Cloud, and Kubernetes. I also offer technical guidance for complex projects and collaborate with other teams to create platform solutions that affect the whole organization. 
 
 ### 🌱 What do I do, and What have I done?
-- Lead Machine Learning Engineer at Nubank. `Dec.2021-Present`
+- Associate Machine Learning Manager at Nubank, leading a team of 7 Engineers. `Aug.2023-Present`
+- Lead Machine Learning Engineer at Nubank. `Dec.2021-Aug.2023`
 - Certification in [**Complex Data Mining**](http://www.extecamp.unicamp.br/dac/validacert_resp_novo.asp?curso=INF-0610&via=&ver=true&ofer=011&rg=48522721-6&id=468071&barra=296cb44165347733041a614279cf4529) at Unicamp. `Jan.2022-Jul.2022`
 - Technical leader and developer of [**PlatIAgro**](https://github.com/platiagro), an open-source AI platform built on top of [**Kubeflow**](https://github.com/kubeflow) `Aug.2018-Nov.2021`
 - ML Engineer in projects that use conversational AI in Customer Service and Healthcare. `Jan.2017-Jun.2021`
